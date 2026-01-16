@@ -1,0 +1,66 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background: #e8d3c5;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 40px;
+    text-align: center;
+}
+
+.products {
+    padding: 30px;
+    text-align: center;
+}
+
+.product {
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+}
+
+.product img {
+    width: 100%;
+}
+
+button {
+    background: #ff6600;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.contact {
+    background: #f4f4f4;
+    padding: 30px;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
